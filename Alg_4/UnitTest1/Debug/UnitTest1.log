@@ -1,0 +1,12 @@
+﻿  UnitTest1.cpp
+C:\Lab_alg\Alg_4\Alg_4\Alg_4\FordFulkerson.cpp(29): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Lab_alg\Alg_4\Alg_4\Alg_4\FordFulkerson.cpp(41): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Lab_alg\Alg_4\Alg_4\Alg_4\FordFulkerson.cpp(48): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Lab_alg\Alg_4\Alg_4\Alg_4\FordFulkerson.cpp(53): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Lab_alg\Alg_4\Alg_4\Alg_4\FordFulkerson.cpp(68): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Lab_alg\Alg_4\Alg_4\Alg_4\FordFulkerson.cpp(84): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Lab_alg\Alg_4\Alg_4\Alg_4\FordFulkerson.cpp(105): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Lab_alg\Alg_4\Alg_4\Alg_4\FordFulkerson.cpp(101): warning C4101: bufVe: неиспользованная локальная переменная
+C:\Lab_alg\Alg_4\Alg_4\Alg_4\FordFulkerson.cpp(101): warning C4101: bufPrice: неиспользованная локальная переменная
+C:\Lab_alg\Alg_4\Alg_4\Alg_4\FordFulkerson.cpp(134): warning C4018: <: несоответствие типов со знаком и без знака
+  UnitTest1.vcxproj -> C:\Lab_alg\Alg_4\Alg_4\Debug\UnitTest1.dll
